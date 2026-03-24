@@ -12,6 +12,12 @@ It gives pi a repo identity by:
 
 So instead of every pi session looking the same, your backend repo can feel orange, your frontend blue, your extension purple, and so on.
 
+## Screenshot
+
+![pi-peacock screenshot](./docs/screenshot.png)
+
+_pi-peacock giving the current workspace its own color, footer badge, and title identity inside pi._
+
 ## What this package is for
 
 If you regularly work across:
