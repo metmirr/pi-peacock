@@ -1,0 +1,40 @@
+{
+  "name": "pi-peacock",
+  "version": "0.1.0",
+  "description": "Peacock-style workspace coloring, repo badges, and terminal titles for pi coding agent",
+  "type": "module",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/metmirr/pi-peacock.git"
+  },
+  "homepage": "https://github.com/metmirr/pi-peacock#readme",
+  "bugs": {
+    "url": "https://github.com/metmirr/pi-peacock/issues"
+  },
+  "keywords": [
+    "pi-package",
+    "pi",
+    "peacock",
+    "theme",
+    "terminal"
+  ],
+  "files": [
+    "README.md",
+    "LICENSE",
+    "extensions",
+    "themes",
+    "examples"
+  ],
+  "peerDependencies": {
+    "@mariozechner/pi-coding-agent": "*"
+  },
+  "pi": {
+    "extensions": [
+      "./extensions"
+    ],
+    "themes": [
+      "./themes"
+    ]
+  }
+}

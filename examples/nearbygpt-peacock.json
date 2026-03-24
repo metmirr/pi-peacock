@@ -1,0 +1,34 @@
+{
+  "rules": [
+    {
+      "repo": "nearbygpt-backend",
+      "theme": "peacock-amber",
+      "label": "backend"
+    },
+    {
+      "repo": "nearbygpt-pwa",
+      "theme": "peacock-blue",
+      "label": "pwa"
+    },
+    {
+      "repo": "chrome-extension",
+      "theme": "peacock-purple",
+      "label": "extension"
+    },
+    {
+      "repo": "mapsense-app",
+      "theme": "peacock-green",
+      "label": "mapsense"
+    },
+    {
+      "repo": "mobile-app",
+      "theme": "peacock-cyan",
+      "label": "mobile"
+    },
+    {
+      "repo": "agent-mapsense",
+      "theme": "peacock-rose",
+      "label": "agent"
+    }
+  ]
+}
